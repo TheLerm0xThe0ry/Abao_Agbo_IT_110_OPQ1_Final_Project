@@ -2,8 +2,6 @@
 
 This is a basic patient management system designed specifically for veterinarians. 
 
-The application is built using Laravel, Inertia, and Vue 3 with an API approach, providing a seamless user experience.
-
 # Features
 The application allows veterinarians to manage:
 
@@ -62,11 +60,4 @@ php artisan db:seed --class=PetsSeeder
 
 php artisan db:seed --class=ItemsSeeder
 ````
-
-# Screenshots
-
-![Pets table](https://i.imgur.com/GAqDR3K.png)
-
-![Edit Pet](https://i.imgur.com/s0aeu2Q.jpeg)
-
-![Calendar](https://i.imgur.com/H1uGqa3.jpeg)
+)
