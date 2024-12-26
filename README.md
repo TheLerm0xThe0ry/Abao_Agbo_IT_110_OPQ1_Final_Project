@@ -39,12 +39,6 @@ php artisan db:seed --class=SpeciesSeeder
 php artisan db:seed --class=BreedsSeeder
 ```
 
-# Testing
-Test the `ClientController`
-````
-./vendor/bin/phpunit tests/Feature/ClientTest.php
-````
-
 # Seeders
 For local development
 ````
